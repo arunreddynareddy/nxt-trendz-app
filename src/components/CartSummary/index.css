@@ -1,0 +1,48 @@
+.summary-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-self: flex-end;
+  box-shadow: 0px 4px 16px 0px #616e7c;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.summary-heading {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 3px;
+}
+
+.summary-span {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.summary-description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 0;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 500;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 0px 10px 0px;
+  width: 100%;
+  outline: none;
+  cursor: pointer;
+}
